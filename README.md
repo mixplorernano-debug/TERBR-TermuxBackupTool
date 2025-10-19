@@ -21,7 +21,13 @@ curl -O https://raw.githubusercontent.com/MrAlpha786/TERBR-TermuxBackupTool/mast
 ```
 ## Usage
 Run
+Backup script 
 ```bash
-terbr
+  terbr -b -v
+```
+  Restore script
+
+```bash
+  terbr -r -v
 ```
 for detailed usage
