@@ -1,6 +1,6 @@
 # TERBR - A TERMUX BACKUP/RESTORE TOOL
 
-### Created by [MrAlpha786](https://github.com/MrAlpha786)
+### Created by https://github.com/mixplorernano-debug/TERBR-TermuxBackupTool/edit/master/README.md
 
 _Backup Termux and Restore with just one command. Choose a directory to save backup and easily find them._
 
@@ -21,7 +21,13 @@ curl -O https://raw.githubusercontent.com/MrAlpha786/TERBR-TermuxBackupTool/mast
 ```
 ## Usage
 Run
+Backup script 
 ```bash
-terbr
+  terbr -b -v
+```
+  Restore script
+
+```bash
+  terbr -r -v
 ```
 for detailed usage
